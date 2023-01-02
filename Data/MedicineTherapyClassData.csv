@@ -1,0 +1,14 @@
+Kelas Terapi, Nama Kelas Terapi
+     1      , Analgesik | Antipiretik | Antirematik | Antipiral
+1.1         , ANALGESIK NARKOTIK
+1.2         , ANALGESIK NON NARKOTIK
+1.3         , ANTIPIRAI
+     2      , ANESTETIK
+2.1         , ANESTETIK LOKAL
+2.2         , ANESTETIK UMUM dan OKSIGEN
+2.3         , OBAT untuk PROSEDUR PRE OPERATIF
+     3      , ANTIALERGI dan OBAT Untuk ANAFILAKSIS
+     4      , ANTIDOT dan OBAT LAIN Untuk KERACUNAN
+4.1         , KHUSUS
+4.2         , UMUM
+     5      , ANTIEPILEPSI - ANTIKONVULSI

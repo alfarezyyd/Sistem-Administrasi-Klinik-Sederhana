@@ -1,0 +1,45 @@
+Kode Obat,  Nama Generik            , Bentuk Sediaan    ,    Harga
+1.1.A,      Fentanil                , Injeksi           , 1217
+1.1.B,      Kodein                  , Tablet            , 982
+1.1.C,      Morfin                  , Tablet            , 1047
+1.1.D,      Petidin                 , Injeksi           , 1214
+1.1.E,      Sufentanil              , Injeksi           , 1261
+1.2.A,      Ibuprofen               , Tablet            , 1434
+1.2.B,      Ketoprofen              , Sirup             , 1405
+1.2.C,      Natrium Diklofenak      , Tablet            , 594
+1.2.D,      Parasetamol             , Tablet            , 1068
+1.3.A,      Alopurinol              , Tablet            , 1490
+1.3.B,      Kolkisin                , Tablet            , 1224
+2.1.A,      Bupivakain              , Injeksi           , 1178
+2.1.B,      Bupivakain Heavy        , Injeksi           , 1116
+2.1.C,      Etil Klorida            , Spray             , 1079
+2.1.D,      Lidokain                , Injeksi           , 979
+2.2.A,      Halotan                 , Inhalasi Injeksi  , 1366
+2.2.B,      Isofluran               , Inhalasi Injeksi  , 1334
+2.2.C,      Ketamin                 , Injeksi           , 1333
+2.2.D,      Nitrogen Oksida         , Inhalasi Injeksi  , 623
+2.2.E,      Oksigen                 , Inhalasi Injeksi  , 1173
+2.2.F,      Propofol                , Injeksi           , 557
+2.2.G,      Tiopental               , Injeksi           , 1003
+2.3.A,      Atropin                 , Injeksi           , 1178
+2.3.B,      Diazepam                , Injeksi           , 1022
+2.3.C,      Midazolam               , Injeksi           , 1217
+3.1.A,      Deksametason            , Injeksi           , 529
+3.1.B,      Difenhidramin           , Injeksi           , 1008
+3.1.C,      Epinefrin (Adrenalin)   , Injeksi           , 797
+3.1.D,      Klorfeniramin           , Tablet            , 1210
+3.1.E,      Loratadin               , Tablet            , 1051
+3.1.F,      Setirizin               , Sirup             , 744
+4.1.A,      Atropin                 , Injeksi           , 871
+4.1.B,      Kalsium Glukonat        , Injeksi           , 622
+4.1.C,      Nalokson                , Injeksi           , 1285
+4.1.D,      Natrium Bikarbonat      , Tablet            , 512
+4.1.E,      Natrium Tiosulfat       , Injeksi           , 1155
+4.1.F,      Protamin Sulfat         , Injeksi           , 665
+4.2.A,      Karbon Aktif            , Tablet            , 1101
+4.2.B,      Magnesium Sulfat        , Serbuk            , 1289
+5.1.A,      Diazepam                , Larutan Rektal    , 805
+5.1.B,      Fenitoin                , Kapsul            , 794
+5.1.C,      Fenobarbital            , Tablet            , 721
+5.1.D,      Karbamazepin            , Sirup             , 582
+5.1.E,      Magnesium Sulfat        , Injeksi           , 646

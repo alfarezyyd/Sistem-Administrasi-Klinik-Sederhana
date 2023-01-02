@@ -1,0 +1,29 @@
+A90D23, A00           , Kholera
+D23A, A07           , Penyakit Probosoa Lainnya
+D23A, A07.1           , Giardiasis [Lambliasis]
+D23A, C00           , Tumor Ganas Bibir
+D23AF, A00           , Kholera
+D23A, A00           , Kholera
+D23A, A00           , Kholera
+D23AF, A07           , Penyakit Probosoa Lainnya
+D23A, A03.0           , Disentri Basiler (Shigellosis)
+D23A, F19           , Gangguan Mental Akibat Narkoba | Zat Psikoaktif Lain
+A02D23, J00           , Nasofaringitis Akut [Common Cold]
+D23AF, K07.6           , Kelainan Sendi Temporomandibular
+A02D23, J00           , Nasofaringitis Akut [Common Cold]
+A02D23, A00           , Kholera
+D23AF, A00           , Kholera
+D23AF, A00           , Kholera
+D23AF, I09.0           , Jantung Rematik (Rheumatic Myocarditis)
+D23A, A18.8+           , Tbc Extra Paru Pada Organ Lainya
+D23A, A06.0           , Disentri Amuba Akut
+D23A, F11           , Gangguan Mental Akibat Penggunaan Opioid
+D23A, A05.9           , Keracunan Makanan Oleh Bakteri
+D23A, A00           , Kholera
+D23A, A05.9           , Keracunan Makanan Oleh Bakteri
+D23A, K04.7           , Periapical Abses Tanpa Sinus
+D23A, I09.0           , Jantung Rematik (Rheumatic Myocarditis)
+A023D23, B23.0           , HIV Akut
+A02D3R, I09.0           , Jantung Rematik (Rheumatic Myocarditis)
+D23A, K00           , Gangguan Pertumbuhan & Erupsi Gigi
+D23A, B15           , Hepatitis A Akut

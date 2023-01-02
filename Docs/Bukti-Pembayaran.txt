@@ -1,0 +1,29 @@
+				Klinik Sakit Melarat 
+         		  Jalan Marlboro No. 18 RT. 02/14 
+           Kp. Meikarta, Cikarang Panas, Bekasi Apa Lagi 
+           ===================================================== 
+            ---------- Bukti Pembayaran Administrasi ---------- 
+           ===================================================== 
+            Tanggal dan Waktu Cetak : Tue Dec 27 22:23:34 2022
+            Nomor Transaksi : 1672154614 
+           ===================================================== 
+             ------------------ Data Pasien ------------------ 
+           ===================================================== 
+            Kode Rekam Medis : A02D3R 
+            Nama Lengkap :  MENCOBA 
+            Alamat :  KELURAHAN, RT. 23, RW. 23 
+           ===================================================== 
+             --------------- Informasi Penyakit --------------- 
+           ===================================================== 
+            Kelompok ICD : I09.0 
+            Diagnosis Penyakit :  Jantung Rematik (Rheumatic Myocarditis) 
+           ===================================================== 
+             ---------- Informasi Biaya Administrasi ---------- 
+           ===================================================== 
+           TOTAL HARGA TINDAKAN   (Rp) : 50000 
+           TOTAL HARGA OBAT       (Rp) : 0 
+           --------------------------------------- (+) 
+           BIAYA TOTAL (PPn 11%)  (Rp) : 0.00 
+           UANG PEMBAYARAN        (Rp) : 0 
+           ======================================= (-) 
+           KEMBALIAN              (Rp) : 0.00

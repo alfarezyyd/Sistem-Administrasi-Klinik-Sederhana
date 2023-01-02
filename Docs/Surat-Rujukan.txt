@@ -1,0 +1,23 @@
+				Klinik Sakit Melarat 
+         		  Jalan Marlboro No. 18 RT. 02/14 
+           Kp. Meikarta, Cikarang Panas, Bekasi Apa Lagi 
+           ===================================================== 
+            -------------- Surat Rujukan Klinik -------------- 
+           ===================================================== 
+            Tanggal dan Waktu Cetak : Sun Dec 25 19:13:34 2022
+ 
+            Nomor Surat Rujukan : 1671970414 
+           ===================================================== 
+             ------------------ Data Pasien ------------------ 
+           ===================================================== 
+            Kode Rekam Medis : D23A 
+            Nama Lengkap :  Ucup Spakbor 
+            Alamat : , RT. 12, RW. 23 
+           ===================================================== 
+             --------------- Informasi Penyakit --------------- 
+           ===================================================== 
+            Kelompok ICD : A07 
+            Diagnosis Penyakit :  Penyakit Probosoa Lainnya 
+           ===================================================== 
+            Mohon bantu Pemeriksaaan, Pengobatan dan Perawatan 
+            Atas bantuannya, kami ucapkan terima kasih
